@@ -1,0 +1,37 @@
+ { 
+    "items": [
+    
+     {"name" : "","nameCoppy" : "AppImages.advanceLogo", "pathUrl" : "assets/images/advance_logo.png"},
+     {"name" : "","nameCoppy" : "AppImages.appointment", "pathUrl" : "assets/images/appointment.png"},
+     {"name" : "","nameCoppy" : "AppImages.assignTask", "pathUrl" : "assets/images/assign_task.png"},
+     {"name" : "","nameCoppy" : "AppImages.bgCategoryVouchers", "pathUrl" : "assets/images/bg_category_vouchers.png"},
+     {"name" : "","nameCoppy" : "AppImages.bgCategoryVouchersOpacity", "pathUrl" : "assets/images/bg_category_vouchers_opacity.png"},
+     {"name" : "","nameCoppy" : "AppImages.bgLiveButton", "pathUrl" : "assets/images/bg_live_button.png"},
+     {"name" : "","nameCoppy" : "AppImages.bgLoginOptions", "pathUrl" : "assets/images/bg_login_options.png"},
+     {"name" : "","nameCoppy" : "AppImages.bgNoConnection", "pathUrl" : "assets/images/bg_no_connection.png"},
+     {"name" : "","nameCoppy" : "AppImages.card", "pathUrl" : "assets/images/card.png"},
+     {"name" : "","nameCoppy" : "AppImages.collaboratorOnboarding_01", "pathUrl" : "assets/images/collaborator_onboarding_01.png"},
+     {"name" : "","nameCoppy" : "AppImages.collaboratorOnboarding_02", "pathUrl" : "assets/images/collaborator_onboarding_02.png"},
+     {"name" : "","nameCoppy" : "AppImages.collaboratorOnboarding_03", "pathUrl" : "assets/images/collaborator_onboarding_03.png"},
+     {"name" : "","nameCoppy" : "AppImages.consultationHeaderBg", "pathUrl" : "assets/images/consultation_header_bg.png"},
+     {"name" : "","nameCoppy" : "AppImages.customerBg", "pathUrl" : "assets/images/customer_bg.png"},
+     {"name" : "","nameCoppy" : "AppImages.docExtension", "pathUrl" : "assets/images/doc_extension.png"},
+     {"name" : "","nameCoppy" : "AppImages.error", "pathUrl" : "assets/images/error.jpg"},
+     {"name" : "","nameCoppy" : "AppImages.excelExtension", "pathUrl" : "assets/images/excel_extension.png"},
+     {"name" : "","nameCoppy" : "AppImages.fgLoginOptions", "pathUrl" : "assets/images/fg_login_options.png"},
+     {"name" : "","nameCoppy" : "AppImages.file", "pathUrl" : "assets/images/file.png"},
+     {"name" : "","nameCoppy" : "AppImages.icSort", "pathUrl" : "assets/images/ic_sort.png"},
+     {"name" : "","nameCoppy" : "AppImages.imgBgNoConnection", "pathUrl" : "assets/images/img_bg_no_connection.png"},
+     {"name" : "","nameCoppy" : "AppImages.imgCustomerBookingHeaderBg", "pathUrl" : "assets/images/img_customer_booking_header_bg.png"},
+     {"name" : "","nameCoppy" : "AppImages.imgEvaluationResult", "pathUrl" : "assets/images/img_evaluation_result.png"},
+     {"name" : "","nameCoppy" : "AppImages.imgFolder", "pathUrl" : "assets/images/img_folder.png"},
+     {"name" : "","nameCoppy" : "AppImages.nhomKH1", "pathUrl" : "assets/images/nhomKH1.png"},
+     {"name" : "","nameCoppy" : "AppImages.nhomKH2", "pathUrl" : "assets/images/nhomKH2.png"},
+     {"name" : "","nameCoppy" : "AppImages.otherExtension", "pathUrl" : "assets/images/other_extension.png"},
+     {"name" : "","nameCoppy" : "AppImages.pdfExtension", "pathUrl" : "assets/images/pdf_extension.jpeg"},
+     {"name" : "","nameCoppy" : "AppImages.triangle", "pathUrl" : "assets/images/triangle.png"},
+     {"name" : "","nameCoppy" : "AppImages.warning", "pathUrl" : "assets/images/warning.png"},
+     {"name" : "","nameCoppy" : "AppImages.yellowWarning", "pathUrl" : "assets/images/yellow_warning.png"}
+]
+}
+
